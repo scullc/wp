@@ -9,7 +9,7 @@ get_header();
 
 <div class="wrap">
 	<div class="content">
-		<h1>WWG</h1>
+		<h1 class="cs-cross-swing">WWG</h1>
 		<p>A test site gulp/sass</p>
 	</div>
 	<!-- /.content -->
